@@ -1,2 +1,2 @@
 # SE-185
-SE 185: Programming in C (C)
+A few of the labs I compelted in SE 185: Programming in C (C) at Iowa State University.
